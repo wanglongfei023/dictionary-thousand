@@ -1,0 +1,67 @@
+2019-07-06 14:32:22  notice:  thread_id:3069536000  file:main.cpp  function:main.cpp  line:38
+MSG:Thread Pool Server Runing....
+
+2019-07-06 14:32:31  notice:  thread_id:3035958080  file:mysql.cpp  function:mysql.cpp  line:41
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 14:32:31  notice:  thread_id:3035958080  file:login_handler.cpp  function:login_handler.cpp  line:29
+MSG:id:132213	passwd:sfddsf		登录失败，ID不存在
+
+
+2019-07-06 14:48:54  notice:  thread_id:3069183744  file:main.cpp  function:main.cpp  line:38
+MSG:Thread Pool Server Runing....
+
+2019-07-06 14:49:12  notice:  thread_id:3035605824  file:mysql.cpp  function:mysql.cpp  line:41
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 14:49:12  notice:  thread_id:3035605824  file:register_handler.cpp  function:register_handler.cpp  line:30
+MSG:id:123456	name:abcd	passwd:asdas		注册成功
+
+
+2019-07-06 14:50:07  notice:  thread_id:3035605824  file:mysql.cpp  function:mysql.cpp  line:41
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 14:50:07  notice:  thread_id:3035605824  file:register_handler.cpp  function:register_handler.cpp  line:30
+MSG:id:12345678	name:12312	passwd:323re32e		注册成功
+
+
+2019-07-06 14:53:02  notice:  thread_id:3043998528  file:mysql.cpp  function:mysql.cpp  line:41
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 14:53:02  notice:  thread_id:3043998528  file:register_handler.cpp  function:register_handler.cpp  line:30
+MSG:id:12345678	name:sadsa	passwd:sfsa		注册成功
+
+
+2019-07-06 14:56:40  notice:  thread_id:3070035712  file:main.cpp  function:main.cpp  line:38
+MSG:Thread Pool Server Runing....
+
+2019-07-06 14:56:51  notice:  thread_id:3036457792  file:mysql.cpp  function:mysql.cpp  line:41
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 14:56:51  notice:  thread_id:3036457792  file:register_handler.cpp  function:register_handler.cpp  line:30
+MSG:id:123123	name:21312	passwd:wfd		注册成功
+
+
+2019-07-06 14:57:23  notice:  thread_id:3036457792  file:mysql.cpp  function:mysql.cpp  line:41
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 14:57:23  notice:  thread_id:3036457792  file:register_handler.cpp  function:register_handler.cpp  line:30
+MSG:id:12345678	name:sdcsa	passwd:sdfsd		注册成功
+
+
+2019-07-06 14:57:35  notice:  thread_id:3036457792  file:mysql.cpp  function:mysql.cpp  line:41
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 14:57:35  notice:  thread_id:3036457792  file:register_handler.cpp  function:register_handler.cpp  line:30
+MSG:id:666666	name:bbbbbb	passwd:adsada		注册成功
+
+
+2019-07-06 14:58:05  notice:  thread_id:3036457792  file:mysql.cpp  function:mysql.cpp  line:41
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 14:58:16  notice:  thread_id:3036457792  file:mysql.cpp  function:mysql.cpp  line:41
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 14:59:04  notice:  thread_id:3036457792  file:mysql.cpp  function:mysql.cpp  line:41
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+

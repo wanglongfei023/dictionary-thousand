@@ -1,0 +1,9 @@
+2019-07-06 14:49:12  warning:  thread_id:3035605824  file:mysql.cpp  function:mysql.cpp  line:178
+MSG:fail to insert, sql_msg: 'insert into user values('123456', 'abcd', 'asdas')'
+
+2019-07-06 14:50:07  warning:  thread_id:3035605824  file:mysql.cpp  function:mysql.cpp  line:178
+MSG:fail to insert, sql_msg: 'insert into user values('12345678', '12312', '323re32e')'
+
+2019-07-06 14:53:02  warning:  thread_id:3043998528  file:mysql.cpp  function:mysql.cpp  line:178
+MSG:fail to insert, sql_msg: 'insert into user values('12345678', 'sadsa', 'sfsa')'
+

@@ -1,0 +1,21 @@
+2019-07-06 21:49:54{notice} [tid:0xb6fb2700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 21:49:57{notice} [tid:0xb4facb40] [file:task_deal_request.cpp] [func:task_deal_request.cpp] [line:58]
+MSG:Accept a connection [client_ip: 127.0.0.1] [client_port: 51328]
+
+
+2019-07-06 21:50:40{notice} [tid:0xb6f98700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 21:50:44{notice} [tid:0xb4f92b40] [file:task_deal_request.cpp] [func:task_deal_request.cpp] [line:58]
+MSG:Accept a connection [client_ip: 127.0.0.1] [client_port: 51352]
+
+
+2019-07-06 21:53:02{notice} [tid:0xb6ff8700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 21:53:04{notice} [tid:0xb4ff2b40] [file:task_deal_request.cpp] [func:task_deal_request.cpp] [line:58]
+MSG:Accept a connection [client_ip: 127.0.0.1] [client_port: 51354]
+
+

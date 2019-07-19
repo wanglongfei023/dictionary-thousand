@@ -1,0 +1,111 @@
+2019-07-06 17:04:11{notice} [tid:0xb6f43700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 17:17:56{notice} [tid:0xb6efe700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 17:18:03{notice} [tid:0xb4ef8b40] [file:task_deal_request.cpp] [func:task_deal_request.cpp] [line:57]
+MSG:Accept a connection [client_ip: 127.0.0.1] [client_port: 51300]
+
+
+2019-07-06 17:18:15{notice} [tid:0xb4ef8b40] [file:mysql.cpp] [func:mysql.cpp] [line:41]
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 17:18:15{notice} [tid:0xb4ef8b40] [file:register_handler.cpp] [func:register_handler.cpp] [line:30]
+MSG:id:12321213	name:fsafsa	passwd:qewfwf		注册成功
+
+
+2019-07-06 17:19:52{notice} [tid:0xb6f10700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 17:19:54{notice} [tid:0xb4f0ab40] [file:task_deal_request.cpp] [func:task_deal_request.cpp] [line:57]
+MSG:Accept a connection [client_ip: 127.0.0.1] [client_port: 51302]
+
+
+2019-07-06 17:38:25{notice} [tid:0xb6f6c700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 17:38:41{notice} [tid:0xb4f66b40] [file:task_deal_request.cpp] [func:task_deal_request.cpp] [line:58]
+MSG:Accept a connection [client_ip: 127.0.0.1] [client_port: 51304]
+
+
+2019-07-06 17:38:48{notice} [tid:0xb4f66b40] [file:mysql.cpp] [func:mysql.cpp] [line:41]
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 17:42:03{notice} [tid:0xb6f75700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 17:42:22{notice} [tid:0xb4f6fb40] [file:task_deal_request.cpp] [func:task_deal_request.cpp] [line:58]
+MSG:Accept a connection [client_ip: 127.0.0.1] [client_port: 51306]
+
+
+2019-07-06 17:42:29{notice} [tid:0xb4f6fb40] [file:mysql.cpp] [func:mysql.cpp] [line:41]
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 17:43:24{notice} [tid:0xb6f43700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 17:44:03{notice} [tid:0xb6fea700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 17:44:31{notice} [tid:0xb6f59700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 17:44:34{notice} [tid:0xb4f53b40] [file:task_deal_request.cpp] [func:task_deal_request.cpp] [line:58]
+MSG:Accept a connection [client_ip: 127.0.0.1] [client_port: 51312]
+
+
+2019-07-06 17:44:39{notice} [tid:0xb4f53b40] [file:mysql.cpp] [func:mysql.cpp] [line:41]
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 17:44:39{notice} [tid:0xb4f53b40] [file:register_handler.cpp] [func:register_handler.cpp] [line:30]
+MSG:id:adsad	name:sdfsa	passwd:asfddsa		注册成功
+
+
+2019-07-06 17:45:02{notice} [tid:0xb4f53b40] [file:mysql.cpp] [func:mysql.cpp] [line:41]
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 17:45:23{notice} [tid:0xb4f53b40] [file:mysql.cpp] [func:mysql.cpp] [line:41]
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 17:45:40{notice} [tid:0xb4f53b40] [file:mysql.cpp] [func:mysql.cpp] [line:41]
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 17:47:02{notice} [tid:0xb6f16700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 17:47:10{notice} [tid:0xb4f10b40] [file:task_deal_request.cpp] [func:task_deal_request.cpp] [line:58]
+MSG:Accept a connection [client_ip: 127.0.0.1] [client_port: 51314]
+
+
+2019-07-06 17:47:16{notice} [tid:0xb4f10b40] [file:mysql.cpp] [func:mysql.cpp] [line:41]
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 17:47:16{notice} [tid:0xb4f10b40] [file:login_handler.cpp] [func:login_handler.cpp] [line:40]
+MSG:id:666	passwd:123		登录成功
+
+
+2019-07-06 17:55:26{notice} [tid:0xb6fe7700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 17:55:32{notice} [tid:0xb4fe1b40] [file:task_deal_request.cpp] [func:task_deal_request.cpp] [line:58]
+MSG:Accept a connection [client_ip: 127.0.0.1] [client_port: 51316]
+
+
+2019-07-06 17:55:39{notice} [tid:0xb4fe1b40] [file:mysql.cpp] [func:mysql.cpp] [line:41]
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 17:59:10{notice} [tid:0xb6f2c700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 17:59:18{notice} [tid:0xb4f26b40] [file:task_deal_request.cpp] [func:task_deal_request.cpp] [line:58]
+MSG:Accept a connection [client_ip: 127.0.0.1] [client_port: 51318]
+
+
+2019-07-06 17:59:24{notice} [tid:0xb4f26b40] [file:mysql.cpp] [func:mysql.cpp] [line:41]
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 17:59:24{notice} [tid:0xb4f26b40] [file:login_handler.cpp] [func:login_handler.cpp] [line:40]
+MSG:id:666	passwd:123		登录成功
+
+

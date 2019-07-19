@@ -1,0 +1,13 @@
+2019-07-06 12:09:23  notice:  thread_id:3070093056  file:main.cpp  function:main.cpp  line:38
+MSG:Thread Pool Server Runing....
+
+2019-07-06 12:09:37  notice:  thread_id:3036515136  file:mysql.cpp  function:mysql.cpp  line:41
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 12:09:37  notice:  thread_id:3036515136  file:mysql.cpp  function:mysql.cpp  line:183
+MSG:insert success, sql_msg: 'insert into user values('1322142', 'sdfsfsa', 'dfsfdsa')'
+
+2019-07-06 12:09:37  notice:  thread_id:3036515136  file:register_handler.cpp  function:register_handler.cpp  line:30
+MSG:id:1322142	name:sdfsfsa	passwd:dfsfdsa		注册成功
+
+

@@ -1,0 +1,68 @@
+2019-07-06 18:02:39{notice} [tid:0xb6f1e700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 18:02:44{notice} [tid:0xb4f18b40] [file:task_deal_request.cpp] [func:task_deal_request.cpp] [line:58]
+MSG:Accept a connection [client_ip: 127.0.0.1] [client_port: 51320]
+
+
+2019-07-06 18:02:51{notice} [tid:0xb4f18b40] [file:mysql.cpp] [func:mysql.cpp] [line:41]
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 18:02:51{notice} [tid:0xb4f18b40] [file:login_handler.cpp] [func:login_handler.cpp] [line:40]
+MSG:id:666	passwd:123		登录成功
+
+
+2019-07-06 18:03:03{notice} [tid:0xb4f18b40] [file:affair_handler.cpp] [func:affair_handler.cpp] [line:56]
+MSG:user:[wanglongfei] has been offline.
+
+2019-07-06 18:05:17{notice} [tid:0xb6f73700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 18:05:28{notice} [tid:0xb4f6db40] [file:task_deal_request.cpp] [func:task_deal_request.cpp] [line:58]
+MSG:Accept a connection [client_ip: 127.0.0.1] [client_port: 51322]
+
+
+2019-07-06 18:05:34{notice} [tid:0xb4f6db40] [file:mysql.cpp] [func:mysql.cpp] [line:41]
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 18:05:34{notice} [tid:0xb4f6db40] [file:login_handler.cpp] [func:login_handler.cpp] [line:40]
+MSG:id:666	passwd:123		登录成功
+
+
+2019-07-06 18:05:50{notice} [tid:0xb4f6db40] [file:affair_handler.cpp] [func:affair_handler.cpp] [line:57]
+MSG:user:[wanglongfei] has been offline.
+
+2019-07-06 18:06:44{notice} [tid:0xb6f65700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 18:06:47{notice} [tid:0xb4f5fb40] [file:task_deal_request.cpp] [func:task_deal_request.cpp] [line:58]
+MSG:Accept a connection [client_ip: 127.0.0.1] [client_port: 51324]
+
+
+2019-07-06 18:06:52{notice} [tid:0xb4f5fb40] [file:mysql.cpp] [func:mysql.cpp] [line:41]
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 18:06:52{notice} [tid:0xb4f5fb40] [file:login_handler.cpp] [func:login_handler.cpp] [line:40]
+MSG:id:666	passwd:123		登录成功
+
+
+2019-07-06 18:07:03{notice} [tid:0xb4f5fb40] [file:affair_handler.cpp] [func:affair_handler.cpp] [line:57]
+MSG:user:[wanglongfei] has been offline.
+
+2019-07-06 18:10:43{notice} [tid:0xb6f35700] [file:main.cpp] [func:main.cpp] [line:37]
+MSG:Thread Pool Server Runing....
+
+2019-07-06 18:10:46{notice} [tid:0xb4f2fb40] [file:task_deal_request.cpp] [func:task_deal_request.cpp] [line:58]
+MSG:Accept a connection [client_ip: 127.0.0.1] [client_port: 51326]
+
+
+2019-07-06 18:10:52{notice} [tid:0xb4f2fb40] [file:mysql.cpp] [func:mysql.cpp] [line:41]
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-06 18:10:52{notice} [tid:0xb4f2fb40] [file:login_handler.cpp] [func:login_handler.cpp] [line:40]
+MSG:id:666	passwd:123		登录成功
+
+
+2019-07-06 18:11:29{notice} [tid:0xb4f2fb40] [file:affair_handler.cpp] [func:affair_handler.cpp] [line:57]
+MSG:user:[wanglongfei] has been offline.
+

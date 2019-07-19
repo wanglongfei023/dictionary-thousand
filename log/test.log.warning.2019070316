@@ -1,0 +1,2 @@
+2019-07-03 16:48:11  warning:  thread_id:3070162688  file:mysql.cpp  function:mysql.cpp  line:31  msg:Fatal error: fail to connect databases.
+2019-07-03 16:52:41  warning:  thread_id:3070043904  file:mysql.cpp  function:mysql.cpp  line:33  msg:Fatal error: fail to connect databases.[host: localhost] [user: root] [passwd: colin123] [DB: ictionary]

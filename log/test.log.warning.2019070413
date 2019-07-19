@@ -1,0 +1,9 @@
+2019-07-04 13:22:28  warning:  thread_id:3069179648  file:mysql.cpp  function:mysql.cpp  line:178  msg:fail to insert, sql_msg: 'insert into user values('18846135972', 'wanglongf', '3456')'
+2019-07-04 13:24:05  warning:  thread_id:3069847296  file:mysql.cpp  function:mysql.cpp  line:178  msg:fail to insert, sql_msg: 'insert into user values('18846135972', 'wanglongf', '3456')'
+
+2019-07-04 13:24:53  warning:  thread_id:3069511424  file:mysql.cpp  function:mysql.cpp  line:178
+  msg:fail to insert, sql_msg: 'insert into user values('18846135972', 'wanglongf', '3456')'
+
+2019-07-04 13:25:44  warning:  thread_id:3069908736  file:mysql.cpp  function:mysql.cpp  line:178
+MSG:fail to insert, sql_msg: 'insert into user values('18846135972', 'wanglongf', '3456')'
+

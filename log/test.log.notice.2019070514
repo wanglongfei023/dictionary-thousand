@@ -1,0 +1,21 @@
+2019-07-05 14:00:05  notice:  thread_id:3069253376  file:main.cpp  function:main.cpp  line:38
+MSG:Thread Pool Server Runing....
+
+2019-07-05 14:02:17  notice:  thread_id:3070121728  file:main.cpp  function:main.cpp  line:38
+MSG:Thread Pool Server Runing....
+
+2019-07-05 14:06:40  notice:  thread_id:3069687552  file:main.cpp  function:main.cpp  line:38
+MSG:Thread Pool Server Runing....
+
+2019-07-05 14:06:49  notice:  thread_id:3044502336  file:mysql.cpp  function:mysql.cpp  line:41
+MSG:connect databases sucess![host: localhost] [user: root] [passwd: colin123] [DB: dictionary]
+
+2019-07-05 14:08:05  notice:  thread_id:3069986560  file:main.cpp  function:main.cpp  line:38
+MSG:Thread Pool Server Runing....
+
+2019-07-05 14:08:42  notice:  thread_id:3069191936  file:main.cpp  function:main.cpp  line:38
+MSG:Thread Pool Server Runing....
+
+2019-07-05 14:12:59  notice:  thread_id:3069986560  file:main.cpp  function:main.cpp  line:38
+MSG:Thread Pool Server Runing....
+
